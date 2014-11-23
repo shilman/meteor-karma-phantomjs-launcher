@@ -1,7 +1,7 @@
 Package.describe({
   name: 'shilman:karma-phantomjs-launcher',
   summary: 'karma-phantomjs-launcher plugin packaged for Meteor',
-  version: '0.1.5_1',
+  version: '0.1.4_1',
   git: 'https://github.com/shilman/meteor-karma-phantomjs-launcher.git'
 })
 
